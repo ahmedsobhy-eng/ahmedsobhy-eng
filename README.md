@@ -11,60 +11,60 @@
 ---
 
 ## 🧠 About Me
+
 ```python
 class AhmedSobhy:
     def __init__(self):
         self.name = "Ahmed Sobhy"
         self.role = "AI Innovation Aspirant"
         self.university = "Faculty of Computers, Helwan National University"
-        self.focus = ["Computer Vision", "Data Science", "Cybersecurity"]
+        self.focus = ["Computer Vision", "Data Science"]
         self.learning = "IBM Data Science Professional Certificate"
-        self.os = "Windows 10 (Stability & Performance) 💻"
 
     def mission(self):
         return "Building the future of AI Architecture, one line of code at a time."
 
 print(AhmedSobhy().mission())
----
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
+💻 Programming Languages
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
 
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+🤖 AI & Data Science
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/numpy-%2523013243.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/pandas-%2523150458.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/IBM%2520Watson-BE95FF%3Fstyle%3Dfor-the-badge%26logo%3DIBM%2520Watson%26logoColor%3Dwhite" />
 
-### 🤖 AI & Data Science
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=IBM%20Watson&logoColor=white" />
+🔧 Tools & Environment
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual%2520Studio%2520Code-0078d7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/jupyter-%2523FA0F00.svg%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" />
 
-### 🔧 Tools & Environment
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
----
 
-## 🎯 Strategic Roadmap
-| Domain | Status | Key Focus Areas |
-| :--- | :--- | :--- |
-| **🧠 Artificial Intelligence** | 🟢 Learning | Neural Networks, IBM Data Science |
-| **👁️ Computer Vision** | 🟡 Exploring | Object Detection, Open CV |
-| **📊 Data Architecture** | 🟡 Learning | Data Pipelines, Visualization |
----
+🎯 Strategic Roadmap
+Domain,Status,Key Focus Areas
+🧠 Artificial Intelligence,🟢 Learning,"Neural Networks, IBM Data Science"
+👁️ Computer Vision,🟡 Exploring,"Object Detection, Open CV"
+📊 Data Architecture,🟡 Learning,"Data Pipelines, Visualization"
 
-## 📊 GitHub Performance
+
+📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsobhy-eng&theme=radical" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dahmedsobhy-eng%26theme%3Dradical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsobhy-eng&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsobhy-eng&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsobhy-eng&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dahmedsobhy-eng%26show_icons%3Dtrue%26theme%3Dradical" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dahmedsobhy-eng%26layout%3Dcompact%26theme%3Dradical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dahmedsobhy-eng%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" />
+<p align="center">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dradical" />
+</p>
+
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D3776AB%26height%3D100%26section%3Dfooter" />
