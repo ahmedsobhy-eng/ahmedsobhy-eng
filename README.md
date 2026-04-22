@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Sobhy 
 
-<!--
-**ahmedsobhy-eng/ahmedsobhy-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Innovation Aspirant | Python & Computer Vision Enthusiast 🧠
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ About Me
+```python
+class AhmedSobhy:
+    def __init__(self):
+        self.name = "Ahmed Sobhy"
+        self.role = "AI Innovation Aspirant"
+        self.education = "Faculty of Computers, Helwan National University"
+        self.focus = ["Data Science", "Computer Vision", "Cybersecurity"]
+        self.current_learning = "IBM Data Science Professional Certificate"
+        self.tools = ["Python", "C", "Jupyter Notebook", "Git & GitHub"]
+        self.mission = "Building intelligent systems to solve real-world problems."
+
+    def get_status(self):
+        return "Learning, Coding, and Pushing boundaries 🚀"
