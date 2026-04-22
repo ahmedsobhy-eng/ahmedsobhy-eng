@@ -29,7 +29,8 @@ print(AhmedSobhy().mission())
 ---
 ## 🛠️ Tech Stack & Tools
 ### 💻 Programming Languages
-<img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" /> <img src="[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" />
+<p>
+<img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" /> <img src="[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" /></p>
 ### 🤖 AI & Data Science
 <img src="[https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)" /> <img src="[https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)" /> <img src="[https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=IBM%20Watson&logoColor=white](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=IBM%20Watson&logoColor=white)" />
 ### 🔧 Tools & Environment
