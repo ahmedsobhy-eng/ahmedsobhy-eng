@@ -1,178 +1,158 @@
 <div align="center">
 
-<!-- HEADER ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Ahmed%20Sobhy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Architect%20in%20Training%20%7C%20Stealth%20Mode%20R%26D&descSize=16&descAlignY=60&animation=fadeIn"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Architecting+Autonomous+Systems+%F0%9F%A4%96;32-Module+Self-Engineered+Mastery+Path+%F0%9F%9A%80;AI+%7C+Robotics+%7C+Cyber-Physical+Security+%F0%9F%9B%A1%EF%B8%8F;Building+What+Others+Only+Imagine+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:003554,100:0d1117&height=220&section=header&text=Ahmed%20Sobhy&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=Systems%20Architect%20%E2%80%94%20Autonomous%20Intelligence%20%E2%80%94%20Cyber-Physical%20Security&descSize=14&descAlignY=68&descColor=8899aa&animation=scaleIn&stroke=00d4ff&strokeWidth=1"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sobhy-0709413a8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.sobhy.71297@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsobhy-eng)
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedsobhy-eng&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+systems+that+think%2C+perceive%2C+and+act.;Where+software+meets+the+physical+world.;Stealth+Mode+%E2%80%94+watch+the+commits." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sobhy-0709413a8)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.sobhy.71297@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ahmedsobhy-eng?style=flat-square&color=00d4ff&labelColor=0d1117&label=Followers)](https://github.com/ahmedsobhy-eng)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedsobhy-eng&color=00d4ff&style=flat-square&label=Views)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ABOUT ME - CODE STYLE -->
-```python
-class AhmedSobhy:
-    def __init__(self):
-        self.name          = "Ahmed Sobhy"
-        self.role          = "Systems Architect in Training"
-        self.curriculum    = "32-Module Self-Engineered Mastery Path"
-        self.focus         = ["Autonomous AI", "Robotics", "Cyber-Physical Security"]
-        self.university    = "Helwan National University · Giza, Egypt"
-        self.status        = "🔴 Stealth Mode R&D — Building in silence."
-        self.philosophy    = "Depth over breadth. Systems over shortcuts."
+<br/>
 
-    def get_stack(self):
+```python
+# ════════════════════════════════════════════════════════
+#   SYSTEM IDENTITY · v2025.∞
+# ════════════════════════════════════════════════════════
+
+class AhmedSobhy:
+
+    MISSION = "Architecting resilient autonomous systems — where rigor meets purpose."
+
+    def __init__(self):
+        self.role       = "Systems Architect in Training"
+        self.domain     = ["Autonomous Intelligence", "Robotics", "Cyber-Physical Security"]
+        self.approach   = "Depth over breadth. Systems thinking over surface coverage."
+        self.status     = "🔴 Stealth Mode — building in silence."
+        self.location   = "Giza, Egypt"
+
+    def stack(self):
         return {
-            "Core"         : ["C++", "Python", "Linux"],
-            "Intelligence" : ["Deep Learning", "Computer Vision", "NLP"],
-            "Control"      : ["Embedded RTOS", "PID Control", "Mechanics"],
-            "Infrastructure": ["Docker", "Kubernetes", "AWS", "MLOps"],
-            "Security"     : ["Cybersecurity", "Ethical Hacking", "Robotics Defense"]
+            "Core"     : ["C++", "Python", "Linux"],
+            "AI Layer" : ["Deep Learning", "Computer Vision", "NLP"],
+            "Systems"  : ["Embedded", "RTOS", "Mechanical Design"],
+            "Ops"      : ["MLOps", "Docker", "AWS", "Kubernetes"],
+            "Defense"  : ["Cybersecurity", "Ethical Hacking", "Signal Protection"]
         }
 
-    def mission_statement(self):
-        return (
-            "Architecting resilient autonomous systems "
-            "with technical rigor and ethical excellence."
-        )
+    def __repr__(self):
+        return f"<Architect | {self.status}>"
 
-architect = AhmedSobhy()
-print(f"Status  : {architect.status}")
-print(f"Mission : {architect.mission_statement()}")
+
+me = AhmedSobhy()
+# Output: <Architect | 🔴 Stealth Mode — building in silence.>
 ```
 
+<br/>
+
 ---
 
-## ⚙️ Tech Arsenal
+<br/>
 
 <div align="center">
 
-**[ CORE LANGUAGES ]**
+## `[ CURRENT STACK ]`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-**[ AI / MACHINE LEARNING ]**
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00d4ff)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=00d4ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface&logoColor=00d4ff)
 
-**[ INFRASTRUCTURE & SECURITY ]**
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=00d4ff)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedsobhy-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsobhy-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff"/>
+
+## `[ BATTLEFIELD STATS ]`
+
+<br/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahmedsobhy-eng&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8899aa&bg_color=0d1117"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsobhy-eng&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=00d4ff&text_color=8899aa&bg_color=0d1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsobhy-eng&theme=transparent&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8899aa&dates=8899aa&sideNums=ffffff&currStreakNum=ffffff"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsobhy-eng&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
-</div>
+<br/>
 
 ---
 
-## 🗺️ The 32-Module Mastery Path
-
-> *Self-engineered curriculum — from Python to autonomous drones.*
+<br/>
 
 <div align="center">
 
-| # | Module | Domain | Status |
-|---|--------|--------|--------|
-| 01 | Python for Everybody | Core | ✅ |
-| 02 | IBM Data Science Professional | Data | 🔄 |
-| 03 | SQL for Data Science | Data | ⬜ |
-| 04 | C++ for C Programmers | Systems | ⬜ |
-| 05 | Data Structures & Algorithms | CS Fundamentals | ⬜ |
-| 06 | Accelerated CS Fundamentals (UIUC) | Systems | ⬜ |
-| 07 | Mathematics for Machine Learning | AI Math | ⬜ |
-| 08 | Differential Equations for Engineers | Engineering | ⬜ |
-| 09 | Engineering Mechanics | Mechanical | ⬜ |
-| 10 | Mechanical Design & CAD | Mechanical | ⬜ |
-| 11 | Machine Learning Specialization | AI Core | ⬜ |
-| 12 | IBM Cybersecurity Analyst | Security | ⬜ |
-| 13 | Deep Learning Specialization | AI Core | ⬜ |
-| 14 | Computer Vision Specialist | Perception | ⬜ |
-| 15 | Applied Data Science with Python | Data | ⬜ |
-| 16 | Bioinformatics Specialization | Cross-Domain | ⬜ |
-| 17 | Embedded Systems & Interfacing | Hardware | ⬜ |
-| 18 | Robotics Specialization | Robotics | ⬜ |
-| 19 | Self-Driving Cars Specialization | Autonomy | ⬜ |
-| 20 | Natural Language Processing | AI — NLP | ⬜ |
-| 21 | Generative AI with LLMs | GenAI | ⬜ |
-| 22 | Hugging Face Transformers | GenAI Tools | ⬜ |
-| 23 | IBM RAG for GenAI Applications | GenAI | ⬜ |
-| 24 | Containers (Docker/K8s) | DevOps | ⬜ |
-| 25 | ML Engineering for Production (MLOps) | Production | ⬜ |
-| 26 | AWS Cloud Technical Essentials | Cloud | ⬜ |
-| 27 | Linux for Developers | Systems | ⬜ |
-| 28 | Google Cybersecurity Certificate | Security | ⬜ |
-| 29 | Real-Time Operating Systems (RTOS) | Embedded | ⬜ |
-| 30 | Cybersecurity for Robotics | Security | ⬜ |
-| 31 | Systems Engineering | Architecture | ⬜ |
-| 32 | Ethical Hacking (OSCP Level) | Offensive Sec | ⬜ |
+## `[ ACTIVITY ]`
 
-`✅ Done` · `🔄 In Progress` · `⬜ Queued`
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsobhy-eng&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=003554&area=true&hide_border=true&radius=6"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏗️ Projects in Development
+<br/>
+
+<div align="center">
+
+## `[ IN THE LAB ]`
+
+<br/>
 
 ```
-📡  Autonomous Navigation System      →  Robotics · Computer Vision · SLAM
-🧠  Edge AI Inference Engine          →  Embedded Systems · TensorFlow Lite
-🔐  Cyber-Physical Security Framework →  RTOS · Encrypted Telemetry
-🗣️  Voice-Command Control Interface   →  NLP · Embedded · Real-Time
-🛸  Drone Obstacle Avoidance System   →  Self-Driving · Sensor Fusion
+██  Autonomous Perception System     ·  AI · Computer Vision · Sensor Fusion
+██  Cyber-Physical Defense Layer     ·  RTOS · Signal Encryption · Anomaly Detection  
+██  Edge Intelligence Engine         ·  Embedded · TFLite · Real-Time Inference
+██  Conversational Control System    ·  NLP · Voice Commands · Physical Actuation
 ```
 
-> Full project list dropping as modules complete. Watch the repo. 👁️
+> *Repositories go public when they're ready. Not before.*
 
----
+<br/>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsobhy-eng&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
+<br/>
+
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=footer"/>
-
-*"The system isn't built yet. But the architect is."*
-
-**Ahmed Sobhy · Giza, Egypt · 2025 → ∞**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:003554,100:0d1117&height=140&section=footer&text=The+system+isn't+finished.+The+architect+is+still+building.&fontSize=14&fontColor=8899aa&fontAlignY=65&animation=fadeIn"/>
 
 </div>
-
