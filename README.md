@@ -10,20 +10,26 @@
 
 ---
 
-## 🧠 About Me
-
-```python
 class AhmedSobhy:
     def __init__(self):
         self.name = "Ahmed Sobhy"
-        self.role = "AI Innovation Aspirant"
-        self.university = "Faculty of Computers, Helwan National University"
-        self.focus = ["Computer Vision", "Data Science"]
-        self.learning = "IBM Data Science Professional Certificate"
+        self.role = "Systems Architect in Training"
+        self.curriculum = "32-Module Self-Engineered Mastery Path"
+        self.focus = ["Autonomous AI", "Robotics", "Cyber-Physical Security"]
+        self.status = "Stealth Mode R&D"
+        self.location = "Giza, Egypt"
 
-    def mission(self):
-        return "Building the future of AI Architecture, one line of code at a time."
+    def mission_statement(self):
+        return "Architecting resilient autonomous systems with technical rigor and ethical excellence."
 
-print(AhmedSobhy().mission())
-```
+    def get_stack(self):
+        return {
+            "Core": ["C++", "Python", "Linux"],
+            "Intelligence": ["Deep Learning", "Computer Vision", "NLP"],
+            "Control": ["Embedded RTOS", "PID Control", "Mechanics"]
+        }
+
+architect = AhmedSobhy()
+print(f"Status: {architect.status}")
+print(architect.mission_statement())
 
